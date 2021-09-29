@@ -1,4 +1,4 @@
-// Text Adventure Game
+
 const enter = "Please enter 1 or 2 for your answer";
 
 const gameOver = "Sorry GAME OVER!";
